@@ -1,0 +1,17 @@
+<div class="header">
+  <nav>
+    <div class="logo">
+      <a href="#"> <img src="img\Logo_Mobile.svg" alt="logo icon" /></a>
+    </div>
+    <div class="hamburger">
+      <div class="line1"></div>
+      <div class="line2"></div>
+    </div>
+    <ul class="navLinks">
+      <li><button class="btnOutline" href="#">Register</button></li>
+      <li>
+        <button class="btnPrimary" href="#">Become a Contributor</button>
+      </li>
+    </ul>
+  </nav>
+</div>
